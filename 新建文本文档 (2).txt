@@ -1,0 +1,9 @@
+C:\Users\nice\IdeaProjects\okTest>adb shell
+shell@aio_otfp_m:/ $ exit
+
+C:\Users\nice\IdeaProjects\okTest>adb devices
+List of devices attached
+YLEYBQS8EECUZLEU        device
+
+
+C:\Users\nice\IdeaProjects\okTest>
